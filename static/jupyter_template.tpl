@@ -89,7 +89,7 @@ div.code_cell {
   background-color: transparent;
 }
 div.prompt {
-  width: 11ex;
+  width: 1em; /*11ex;*/
   padding: 0.4em;
   margin: 0px;
   font-family: monospace, sans-serif;
